@@ -33,7 +33,7 @@ const {
 
 
     // Set your private API key here or in the "APPLITOOLS_API_KEY" environment variable
-    configuration.apiKey = process.env.APPLITOOLS_API_KEY;
+    configuration.setApiKey(process.env.APPLITOOLS_API_KEY);
     eyes.setConfiguration(configuration);
 
     driver = await eyes.open(driver);
