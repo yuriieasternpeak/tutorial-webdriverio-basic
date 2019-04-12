@@ -7,3 +7,6 @@ ports:
     onOpen: open-preview
   - port: 5900
     onOpen: ignore
+tasks:
+- command: npm install
+- command: java -jar /opt/selenium/selenium-server-standalone.jar
