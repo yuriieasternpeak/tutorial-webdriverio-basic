@@ -15,7 +15,7 @@
     * Option 2: Download it as a Zip file and extract it
 2. CD into the `tutorial-webdriverio-basic` folder
 3. run `npm install`
-4. run `node index.js`
+4. run `npm test`
 
 ### Adding to an existing Node.js example
 
