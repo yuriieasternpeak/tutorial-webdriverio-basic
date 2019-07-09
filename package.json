@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha ./test/example-*.js -t 300000"
   },
-  "author": "Raja Rao Dv",
+  "author": "Applitools Team <team@applitools.com> (http://www.applitools.com/)",
   "license": "ISC",
   "devDependencies": {
     "@applitools/eyes-selenium": "^4.22.2",

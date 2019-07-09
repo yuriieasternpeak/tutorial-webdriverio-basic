@@ -20,6 +20,6 @@
 ### Adding to an existing Node.js example
 
 ```sh
-npm install "@applitools/eyes-selenium" "@applitools/eyes.webdriverio" --save-dev
+npm install "@applitools/eyes-selenium" "@applitools/eyes.webdriverio" "mocha" --save-dev
 
 ```
